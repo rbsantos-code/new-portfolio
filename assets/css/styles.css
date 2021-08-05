@@ -95,3 +95,9 @@ body {
 .modal-title {
   color: honeydew;
 }
+
+/* project hover effect */
+
+.overlay:hover {
+  opacity: 0.3;
+}
