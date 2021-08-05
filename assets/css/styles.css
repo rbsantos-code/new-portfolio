@@ -78,12 +78,20 @@ body {
   color:aqua
 }
 
-#about-me, #love, #modal-project {
+#about-me, #love {
   color:goldenrod;
   text-decoration:solid;
 }
 
+#modal-project {
+  color: aqua;
+}
+
 #contact, #projects, #exampleModalLabel {
   color:honeydew;
-  text-decoration: underline
+  
+}
+
+.modal-title {
+  color: honeydew;
 }
