@@ -96,6 +96,12 @@ body {
   color: honeydew;
 }
 
+/* skills section */
+
+ul {
+  list-style-type: none;
+}
+
 /* project hover effect */
 
 .overlay:hover {
