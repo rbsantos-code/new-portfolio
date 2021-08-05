@@ -83,17 +83,13 @@ body {
   text-decoration:solid;
 }
 
-#modal-project {
+#modal-project, .skill-title {
   color: aqua;
 }
 
-#contact, #projects, #exampleModalLabel {
+#contact, #projects, #exampleModalLabel, #skills, .modal-title {
   color:honeydew;
   
-}
-
-.modal-title {
-  color: honeydew;
 }
 
 /* skills section */
