@@ -78,7 +78,7 @@ body {
   color:aqua
 }
 
-#about-me, #love {
+#about-me, #love, #sf-state, #basin {
   color:goldenrod;
   text-decoration:solid;
 }
@@ -87,7 +87,7 @@ body {
   color: aqua;
 }
 
-#contact, #projects, #exampleModalLabel, #skills, .modal-title {
+#contact, #projects, #exampleModalLabel, #skills, #about-me, .modal-title {
   color:honeydew;
   
 }
