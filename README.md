@@ -1,7 +1,7 @@
 # new-portfolio
 
 ## Purpose
-* My goal is showcase my front-end skills that I have learned and create a portfolio that we reflect my ability to design and my accomplishments.
+* My goal is showcase my front-end skills that I have learned and create a portfolio that we reflect my ability to design and sharemy accomplishments.
 
 ## Table of Contents
 * [Goals](#Goals)
